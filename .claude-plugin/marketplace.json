@@ -1,7 +1,15 @@
 {
   "name": "locaqia",
-  "owner": { "name": "DJO EVENT (Locaqia)", "email": "contact@locaqia.fr" },
+  "owner": {
+    "name": "DJO EVENT (Locaqia)",
+    "email": "contact@locaqia.fr"
+  },
   "plugins": [
-    { "name": "locaqia", "source": "./", "description": "Gestion locative avec Locaqia : loyers, impayés et travaux, en lecture seule." }
-  ]
+    {
+      "name": "locaqia",
+      "source": "./",
+      "description": "Gestion locative avec Locaqia : loyers, impayés et travaux, en lecture seule."
+    }
+  ],
+  "description": "Plugin officiel de Locaqia, gestion locative pour propriétaires bailleurs."
 }

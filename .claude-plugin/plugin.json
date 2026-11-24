@@ -3,8 +3,20 @@
   "displayName": "Locaqia",
   "version": "1.0.0",
   "description": "Gestion locative avec Locaqia : point des loyers du mois, suivi des impayés et des travaux, en lisant vos données Locaqia (lecture seule).",
-  "author": { "name": "DJO EVENT (Locaqia)", "url": "https://locaqia.fr" },
+  "author": {
+    "name": "DJO EVENT (Locaqia)",
+    "url": "https://locaqia.fr"
+  },
   "homepage": "https://locaqia.fr/connecteur-claude",
   "license": "MIT",
-  "keywords": ["gestion locative", "loyers", "propriétaire", "immobilier", "rental management", "landlord"]
+  "keywords": [
+    "gestion locative",
+    "loyers",
+    "propriétaire",
+    "immobilier",
+    "rental management",
+    "landlord"
+  ],
+  "privacyPolicyUrl": "https://locaqia.fr/confidentialite#claude",
+  "icon": ".claude-plugin/icon.png"
 }

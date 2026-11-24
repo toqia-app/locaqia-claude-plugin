@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "locaqia": { "type": "http", "url": "https://locaqia.fr/api/mcp" }
+  }
+}
